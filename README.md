@@ -1,0 +1,2 @@
+# Cours
+Initialisation github copilot
